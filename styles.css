@@ -164,6 +164,7 @@ button {
   transition: .2s;
   box-shadow: 0 0 5px 0 #b9b9b9;
   border-radius: 13px;
+  transition: .4s;
 }
 
 .app_name {
